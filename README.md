@@ -24,4 +24,14 @@ pip install -r requirements.txt
 ```bash
 beautifulsoup4==4.12.2
 requests==2.31.0
-lxml==4.9.3```
+lxml==4.9.3
+```
+## Project Structure
+```bash
+web_scraper_project/
+├── scraper.py          # Main script to run the scraping process
+├── requirements.txt     # Project dependencies
+├── logs/                # Directory for log files
+├── data/                # Directory for data storage
+└── README.md            # Project documentation
+```
