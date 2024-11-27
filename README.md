@@ -20,7 +20,7 @@ Ensure you have Python 3.8 or later installed. Install the necessary dependencie
 ```bash
 pip install -r requirements.txt
 ```
-##Dependencies
+## Dependencies
 ````bash
 beautifulsoup4==4.12.2
 requests==2.31.0
