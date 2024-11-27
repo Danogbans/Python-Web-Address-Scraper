@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Logs and debug files
+logs/
+*.log
+
+# Data files
+data/
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+
+# Package files
+*.egg-info/
+dist/
+build/
+
+# Python cache
+*.egg
+.eggs/
+*.pyc
+*.pyo
+
+# Test result files
+.pytest_cache/
+htmlcov/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependency files (if using lockfiles)
+poetry.lock
+Pipfile.lock
