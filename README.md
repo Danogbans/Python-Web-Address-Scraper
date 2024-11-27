@@ -33,5 +33,5 @@ SCRAPER/
 ├── requirements.txt     # Project dependencies
 ├── logs/                # Directory for log files
 ├── data/                # Directory for data storage
-└── .gitignore           # Project documentation
+└── .gitignore           
 ```
