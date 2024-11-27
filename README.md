@@ -10,7 +10,7 @@ along with a SQLite database for storing the extracted data.
 - **Data Storage**: Saves scraped addresses to a SQLite database for structured storage and easy querying.
 - **Automation**: Supports task scheduling for periodic scraping.
 - **Logging**: Tracks progress and errors in log files.
-- **Unit Testing**: Includes comprehensive unit tests for all components.
+  
 
 ---
 ## Requirements
@@ -19,3 +19,7 @@ Ensure you have Python 3.8 or later installed. Install the necessary dependencie
 
 ```bash
 pip install -r requirements.txt
+Dependencies
+beautifulsoup4==4.12.2
+requests==2.31.0
+lxml==4.9.3
