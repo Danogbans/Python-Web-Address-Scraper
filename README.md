@@ -21,8 +21,7 @@ Ensure you have Python 3.8 or later installed. Install the necessary dependencie
 pip install -r requirements.txt
 ```
 ## Dependencies
-````bash
+```bash
 beautifulsoup4==4.12.2
 requests==2.31.0
-lxml==4.9.3
-```
+lxml==4.9.3```
