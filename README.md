@@ -1,4 +1,5 @@
 # Web Address Scraper
+
 A Python-based web scraper designed to extract addresses from websites. This project uses `requests` and `BeautifulSoup` for HTML fetching and parsing, 
 along with a SQLite database for storing the extracted data.
 ---
