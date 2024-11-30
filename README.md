@@ -36,3 +36,5 @@ SCRAPER/
 ├── data/                # Directory for data storage
 └── .gitignore           
 ```
+# Setup
+1-Create a virtual environment (recommended):
