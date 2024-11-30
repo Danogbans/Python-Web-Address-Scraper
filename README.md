@@ -36,7 +36,7 @@ SCRAPER/
 ├── data/                # Directory for data storage
 └── .gitignore           
 ```
-# Setup
+## Setup
 - Create a virtual environment (recommended):
 ```bash
 python3 -m venv venv
@@ -50,8 +50,8 @@ pip install -r requirements.txt
  ```bash
 python scrape.py
 ``` 
-# Usage
+## Usage
 - Simply execute the scraper.py script to fetch, parse, and store addresses:
-  ```bash
+```bash
 python scrape.py
 ``` 
