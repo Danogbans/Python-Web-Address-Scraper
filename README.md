@@ -30,7 +30,7 @@ lxml==4.9.3
 ## Project Structure
 ```bash
 SCRAPER/
-├── scraper.py          # Main script to run the scraping process
+├── scrape.py          # Main script to run the scraping process
 ├── requirements.txt     # Project dependencies
 ├── logs/                # Directory for log files
 ├── data/                # Directory for data storage
@@ -45,4 +45,8 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 - Install dependencies:
 ```bash
 pip install -r requirements.txt
+``` 
+- Initialize the project:
+ ```bash
+python scrape.py
 ``` 
