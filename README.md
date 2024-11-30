@@ -55,5 +55,5 @@ python scrape.py
 ```bash
 python scrape.py
 ``` 
-- Automated Scheduling:
+## Automated Scheduling:
 - Enable periodic scraping by scheduling the main function. By default, it runs daily.
