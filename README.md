@@ -50,3 +50,8 @@ pip install -r requirements.txt
  ```bash
 python scrape.py
 ``` 
+# Usage
+- Simply execute the scraper.py script to fetch, parse, and store addresses:
+  ```bash
+python scrape.py
+``` 
