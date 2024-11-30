@@ -38,3 +38,7 @@ SCRAPER/
 ```
 # Setup
 - Create a virtual environment (recommended):
+```bash
+python3 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
