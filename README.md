@@ -37,4 +37,4 @@ SCRAPER/
 └── .gitignore           
 ```
 # Setup
-1-Create a virtual environment (recommended):
+1 - Create a virtual environment (recommended):
