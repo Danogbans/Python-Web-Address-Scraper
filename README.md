@@ -51,7 +51,9 @@ pip install -r requirements.txt
 python scrape.py
 ``` 
 ## Usage
-- Simply execute the scraper.py script to fetch, parse, and store addresses:
+- Simply execute the scrape.py script to fetch, parse, and store addresses:
 ```bash
 python scrape.py
 ``` 
+- Automated Scheduling:
+- Enable periodic scraping by scheduling the main function. By default, it runs daily.
